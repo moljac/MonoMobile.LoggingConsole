@@ -12,6 +12,10 @@ TODO:
 	1. redirect Console.Error 
 	2. WP make trusted app
 	3. WPF sample
-	
+
+Far far away TODOs:
+	1. log4net
+	2. entlib
+
 	
 http://holisticware.net
