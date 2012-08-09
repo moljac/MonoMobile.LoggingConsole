@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Say Hello!</string>
+    <string name="ApplicationName">XConsoleRedirection.mClnt.MA</string>
+</resources>
